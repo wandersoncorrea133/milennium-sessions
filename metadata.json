@@ -1,0 +1,5 @@
+{
+  "name": "Active User Sessions",
+  "description": "A dashboard to display a list of users who currently have an active session, fetching data from a local API endpoint. The list automatically refreshes every 5 seconds.",
+  "requestFramePermissions": []
+}
